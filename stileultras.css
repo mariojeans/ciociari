@@ -1,0 +1,22 @@
+@font-face {
+    font-family: ultrasliberi;
+    src: url(ultrasliberi.ttf);
+}
+
+body {
+    font-family: ultrasliberi;
+	text-align: center;
+	margin: 400px auto;
+	font-size: 250px;
+	letter-spacing: 30px;
+	border: 10px solid #3a77d8;
+	height: 100%;
+	border-radius: 10px;
+	padding: 0px;
+	line-height: 100%;
+	background-color: yellow;
+	color: #3a77d8;
+}
+html {
+	background-color: red;
+}
