@@ -2,7 +2,10 @@
     font-family: ultrasliberi;
     src: url(ultrasliberi.ttf);
 }
-
+* {
+	margin: 0;
+	padding: 0;
+}
 body {
     font-family: ultrasliberi;
 	text-align: center;
